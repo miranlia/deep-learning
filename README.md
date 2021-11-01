@@ -1,7 +1,7 @@
 # deep-learning
 Detection Stage of Leukemia Cancer (G1, G2 and S) using CNN and VGG19
 
-This was a project that was done within the time frame of 24 hours for a Hackathon contest. 
+This was a project that was done within the time frame of 48 hours for a Hackathon contest. This project won the Award of Project with the Most Potential.
 
 Inspiration for this project:
 I decided to start with the dataset that was shared by Iing's PostDoc friend since I desire to help patients that are facing Leukemia. I wish to help the patients with Leukemia so they can detect the stage of their cancer earlier and thus receive the treatment they deserve.
